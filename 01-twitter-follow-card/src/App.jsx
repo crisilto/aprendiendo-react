@@ -20,8 +20,8 @@ export function App() {
             />
             <TwitterFollowCard
                 isFollowing={false}
-                userName="_criscries"
-                name="criscries"
+                userName="crisilto"
+                name="Cristina"
             />
         </section>
     );
